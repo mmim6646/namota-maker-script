@@ -1,0 +1,1 @@
+# namota-maker-script
